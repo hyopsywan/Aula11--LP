@@ -1,3 +1,4 @@
+#Em python
 # Lê os nomes dos arquivos a partir de config.txt
 with open('config.txt', 'r') as config_file:
     arquivos = config_file.read().splitlines()
